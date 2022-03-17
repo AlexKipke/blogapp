@@ -1,0 +1,9 @@
+.bloglist-container {
+    //background-color: aquamarine;
+    width: 100vw;
+    height: calc(100vh - 48px);
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
